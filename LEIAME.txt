@@ -1,0 +1,50 @@
+*************************************************************************************************                                                                                             **
+**                   LL    EEEEE    TTTTTT RRRRRR OOOOOO CCCCCC   AA                           **
+**                   LL    EE         TT   RR   R OO  OO CC     AA  AA                         ** 
+**                   LL    EEEE       TT   RRRRRR OO  OO CC     AAAAAA                         **
+**                   LL    EE         TT   RR RR  OO  OO CC     AA  AA                         **
+**                   LLLLL EEEEE      TT   RR  RR OOOOOO CCCCCC AA  AA                         ** 
+**                                                                                             **
+*************************************************************************************************
+*** Instalação ***
+
+- Para a instalção do jogo Le Troca execute o arquivo letroca.exe.
+- O jogo será descompactado na pasta:
+  C:\Arquivos de Programas\LeTroca.
+
+
+
+*** Erro ***
+
+- Caso o jogo não rode copie o arquivo:
+  C:\Arquivos de Programas\LeTroca\dll\alleg40.dll
+  Para a pasta:
+  C:\Windows\system32
+
+
+
+*** Atalhos ***
+
+- [J] Jogar
+- [R] Ver Recordes
+- [A] Ajuda
+- [S] Sair
+
+- Na tela do jogo:
+
+- [Backspace] Apagar letra
+- [Barra de Espaço] Embaralhar Letras
+- [F2] Desistir/Avançar Para Próxima Fase
+- [Enter] Enviar Palavra
+
+
+
+*** Dúvidas, Sugestões ou Críticas ***
+- Contate-nos Atrevés De Nossos E-mails:
+  
+  Allan Girão: allan.girao@gmail.com
+  Pedro Ivo Rodrigues: pir.pedro@gmail.com
+  Samyr Pereira: samyrsouzapereira@gmail.com
+
+
+
